@@ -1,4 +1,4 @@
-## OOP
+# OOP란?
   > Object Oriented Programming
   * 객체에 집중되는 프로그래밍
   * 한번 작성한 코드를 어디서든 사용할 수 있게 하는 프로그래밍 (나의 답변)
