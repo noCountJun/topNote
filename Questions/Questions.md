@@ -76,7 +76,7 @@
 * get / post /crud 에 대해 설명
 * HTTP Method에 대해 설명
 * Connection Timeout / Read Timeout의 차이
-* RESTful API
+* [RESTful API](https://github.com/noCountJun/topNote/blob/master/Questions/network/restApi.md)
   * REST / SOAP 에 대해 설명
   * RESTFul 하다(하지 않다) 의 의미
 
