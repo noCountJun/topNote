@@ -6,6 +6,8 @@
  
 ### JAVA, 객체지향
 * [OOP? SOLID?](https://github.com/noCountJun/topNote/blob/master/Questions/java/oop/oop.md)
+  * 객체지향 프로그래밍이란? 
+  * 객체지향개발원칙은 
 * [JVM구조,GC동작원리](https://github.com/noCountJun/topNote/blob/master/Questions/java/jvm.md)
 * 접근제어자
 * Interface / abstract의 차이
