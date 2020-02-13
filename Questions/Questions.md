@@ -6,10 +6,7 @@
  
 ### JAVA, 객체지향
 * [OOP? SOLID?](https://github.com/noCountJun/topNote/blob/master/Questions/java/oop/oop.md)
-* GC는 어떻게 동작하나
-* GC 발생이유
-  * 참조되지 않는 객체들을 정리함으로써 불필요한 자원의 낭비를 막는다
-* JVM구조
+* [JVM구조,GC동작원리](https://github.com/noCountJun/topNote/blob/master/Questions/java/jvm.md)
 * 접근제어자
 * Interface / abstract의 차이
 * StringBuilder / StringBuffer의 차이
