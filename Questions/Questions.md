@@ -5,7 +5,7 @@
 * [정아마추어면접답](https://jeong-pro.tistory.com/category/%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%A9%B4%EC%A0%91%20%EA%B8%B0%EC%B4%88)
  
 ### JAVA, 객체지향
-* OOP란? SOLID에 대해 설명하라
+* (OOP? SOLID?)[https://github.com/noCountJun/topNote/blob/master/Questions/java/oop/oop.md]
 * GC는 어떻게 동작하나
 * GC 발생이유
   * 참조되지 않는 객체들을 정리함으로써 불필요한 자원의 낭비를 막는다
