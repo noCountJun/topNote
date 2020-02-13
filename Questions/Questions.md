@@ -71,13 +71,14 @@
 * HTTP / TCP 차이
 * HTTP / HTTPS 차이 
 * HTTPS 에서 S는 어느 계층에 속하나
-* REST / SOAP 에 대해 설명
 * 쿠키 , 세션
 * 샤딩이란
 * get / post /crud 에 대해 설명
 * HTTP Method에 대해 설명
 * Connection Timeout / Read Timeout의 차이
-* RESTFul 하다(하지 않다) 의 의미
+* RESTful API
+  * REST / SOAP 에 대해 설명
+  * RESTFul 하다(하지 않다) 의 의미
 
 
 
