@@ -1,3 +1,11 @@
+* [한재엽기술면접자료](https://github.com/JaeYeopHan/Interview_Question_for_Beginner#%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%B0%9B%EC%95%98%EB%8D%98-%EC%A7%88%EB%AC%B8%EB%93%A4)
+* [김대희기술면접자료](https://github.com/DaeHeeKim93/DaeHeeKim-Review)
+* [WeareSoft 기술면접자료](https://github.com/WeareSoft/tech-interview)
+* [jobhope기술면접자료](https://github.com/jobhope/TechnicalNote)
+* [정아마추어면접답](https://jeong-pro.tistory.com/category/%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%A9%B4%EC%A0%91%20%EA%B8%B0%EC%B4%88)
+ 
+
+
 ### 업무
 * OOP란
 * SOILD에 대해 설명
