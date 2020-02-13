@@ -18,7 +18,7 @@
 * 접근제어자
 * Interface / abstract의 차이
 * StringBuilder / StringBuffer의 차이
-* try*with*resources
+* try-with-resources
 * Synchronize란?
 * Synchrozize를 하기 위한 방법은?
 * static에 대해
