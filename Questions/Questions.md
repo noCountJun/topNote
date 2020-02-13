@@ -4,52 +4,49 @@
 * [jobhope기술면접자료](https://github.com/jobhope/TechnicalNote)
 * [정아마추어면접답](https://jeong-pro.tistory.com/category/%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%A9%B4%EC%A0%91%20%EA%B8%B0%EC%B4%88)
  
-
-
-### 업무
-* OOP란
-* SOILD에 대해 설명
-* MVC패턴에 대해 설명
-* UI와 UX의 차이
-* XSS(Cross*site scripting) 이란
-* 웹 접근성이란
-* Stack, Queue, LinkedList, Binary Search 
-* Stack / LinkedList / List / vector의 차이
-* 깊이우선탐색, 너비우선탐색
-* 64bit / 32bit 차이
-* 검색이 어떤 방식으로 작동하는가
+### JAVA, 객체지향
+* OOP란? SOLID에 대해 설명하라
 * GC는 어떻게 동작하나
 * GC 발생이유
-  참조되지 않는 객체들을 정리함으로써 불필요한 자원의 낭비를 막는다
+  * 참조되지 않는 객체들을 정리함으로써 불필요한 자원의 낭비를 막는다
 * JVM구조
-* HashMap / HashTable / ConcurrentHashMap의 차이
 * 접근제어자
 * Interface / abstract의 차이
 * StringBuilder / StringBuffer의 차이
 * try-with-resources
 * Synchronize란?
 * Synchrozize를 하기 위한 방법은?
+* Serialize란
+* Serialize와 json의 상관관계
+* Serialize로 통신할 때 문제점
 * static에 대해
-* 컬렉션프레임워크에 대해 설명
 * 제네릭이란?
-  * 왜 쓰는지 어디서 써봤는지 
-  * 대표적인 제네릭 메서드는? 
-    - Collections.sort()
+* 제네릭을 왜 쓰는지 어디서 써봤는지 
+* 대표적인 제네릭 메서드는? 
+* Collections.sort()
 * 오버로딩, 오버라이딩
 * CheckedException / UnCheckedException 차이
 * final / finally / finalize 차이
-* 스프링 프레임워크의 특징
-* 스프링 IoC 란
-* Di란
-* POJO란
-* OOP와 AOP 의 차이
-* Serialize란
-  * Serialize와 json의 상관관계
-  * Serialize로 통신할 때 문제점
+* 람다식 단점
+  * 남발하면 코드가 지저분해진다
+* call by value와 call by reference의 차이
+
+### 자료구조
+* 컬렉션프레임워크에 대해 설명
+* Stack, Queue, LinkedList, Binary Search 
+* Stack / LinkedList / List / vector의 차이
+* HashMap / HashTable / ConcurrentHashMap의 차이
+
+### 업무
+* MVC패턴에 대해 설명
+* UI와 UX의 차이
+* XSS(Cross*site scripting) 이란
+* 웹 접근성이란
+* 64bit / 32bit 차이
+* 검색이 어떤 방식으로 작동하는가
 * 쓰레드풀에 대해 설명하라, 왜 쓰는지, 무엇인지
 * url에 www.naver.com 입력하면 화면에 나타나기까지의 과정
-  * 만약 인터넷이 끊기면 어디까지 진행되는가
-* call by value와 call by reference의 차이
+* 위과정에서 만약 인터넷이 끊기면 어디까지 진행되는가
 * 해시함수 sha*1에대해 설명
 * DAO DTO에 대해 설명
 * 디자인패턴 설명
@@ -57,11 +54,15 @@
 * 컴파일러 / 인터프리터 차이
 * HashTable의 출동해결 방법
 * 대칭키/ 비대칭키 암호화 차이
-* 람다식 단점
-  남발하면 코드가 지저분해진다
+
+### 
+* 스프링 프레임워크의 특징
+* 스프링 IoC 란
+* Di란
+* POJO란
+* OOP와 AOP 의 차이
 * Spring boot 설정 자동화 원리
   @EnableAutoConfiguration
-
 
 
 ### 네트워크
@@ -126,7 +127,7 @@
 * 소팅 알고리즘을 슈도 코드로 구현하되, 변수를 사용하지 않고 해봐라
 * 정렬 알고리즘 중 가장 빠른방식은 무엇인가, 그 알고리즘에 대해 설명해봐라
 * 자바로 자판기를 설계할 때 어떻게 설계할 것인가.
-  
+  * 깊이우선탐색, 너비우선탐색
 
 
 
