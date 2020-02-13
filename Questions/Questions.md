@@ -5,9 +5,7 @@
 * [정아마추어면접답](https://jeong-pro.tistory.com/category/%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%A9%B4%EC%A0%91%20%EA%B8%B0%EC%B4%88)
  
 ### JAVA, 객체지향
-* [OOP? SOLID?](https://github.com/noCountJun/topNote/blob/master/Questions/java/oop/oop.md)
-  * 객체지향 프로그래밍이란? 
-  * 객체지향개발원칙은 
+* [OOP? SOLID?](https://github.com/noCountJun/topNote/blob/master/Questions/java/oop.md)
 * [JVM구조,GC동작원리](https://github.com/noCountJun/topNote/blob/master/Questions/java/jvm.md)
 * 접근제어자
 * Interface / abstract의 차이
